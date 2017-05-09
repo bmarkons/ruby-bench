@@ -1,8 +1,8 @@
-## Welcome to Ruby Bench
+# Welcome to Ruby Bench
 
 ![rubybench](rubybench.jpg)
 
-### Introduction
+## Introduction
 
 RubyBench runs, stores and visualizes benchmarks for ruby projects. It helps developers with feedback when their framework or platform is getting slower or faster.
 
@@ -10,7 +10,7 @@ Finding out about regressions months in to the development cycle can often incur
 
 RubyBench was born out from [Sam Saffron's call](https://samsaffron.com/archive/2013/12/11/call-to-action-long-running-ruby-benchmark) for a long running Ruby benchmarks.
 
-### Contributing
+## Contributing
 
 #### [ruby-bench-web](https://github.com/ruby-bench/ruby-bench-web)
 Rails app for storing and visualizing benchmark results.
@@ -27,6 +27,6 @@ Benchmark scripts which are being run.
 #### [ruby-bench-server](https://github.com/ruby-bench/ruby-bench-server)
 Script to set up new bare metal servers.
 
-### Community
+## Community
 
 Feel free to join discussion on community.rubybench.org :speech_balloon:
