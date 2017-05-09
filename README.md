@@ -29,4 +29,4 @@ Script to set up new bare metal servers.
 
 ## Community
 
-Feel free to join discussion on community.rubybench.org :speech_balloon:
+Feel free to join discussion on [community.rubybench.org](http://community.rubybench.org/) :speech_balloon:
